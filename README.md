@@ -28,6 +28,3 @@ To change **MongoDB** connection settings, edit this file.
 - **Node.js** v16.20.2
 - **MongoDB**
 - **React.js**
-
-## 🖼 Preview
-![Preview](https://i.imgur.com/9XLFtK0.gif)
